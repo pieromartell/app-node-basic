@@ -1,2 +1,2 @@
-# app-node-basic
-Es la aplicacion basica de node.js que estoy realizandp
+# app-node-Typescript-basic
+Es la aplicacion basica de node.js y Typescript que estoy realizando
